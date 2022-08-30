@@ -6,10 +6,12 @@ This project built a proof-of-concept decentralised app, KonnectHealth, that col
 # Before starting the KonnectHealth app...
 
 Download Ganache.
-The project is set to deploy to Ganache by default. If you would like to use something else, 
-modify the existing Truffle config file.
 
-Install MetaMask wallet in google chrome browser. Ensure it is connected locally to where Ganache is runni
+The project is set to deploy to Ganache by default.
+
+If you would like to use something else, modify the existing Truffle config file.
+
+Install MetaMask wallet in google chrome browser. Ensure it is connected locally to where Ganache is running.
 
 Install the required dependencies
 
